@@ -76,7 +76,6 @@
 ---
 
 
-
 ### [Linux Fundamentals for Security Practitioners](https://app.cybrary.it/courses/api/certificate/CC-0d73a07c-3626-433a-947b-1cf13bd56f54/view)
 
 ![Alt Text](./cybrary-cert-linux-fundamentals-for-security-practitioners-1.png)
@@ -93,7 +92,6 @@
 ---
 
 
-
 ### [OSINT Basics](https://app.cybrary.it/courses/api/certificate/CC-a7cb1bda-40b0-4000-b102-17d9501a9979/view)
 
 ![Alt Text](./cybrary-cert-osint-basics-1.png)
@@ -102,7 +100,14 @@
 ---
 
 
-
 ### [CVE Series: Apache Spark (CVE-2022-33891)](https://app.cybrary.it/courses/api/certificate/CC-c2f54192-9317-47e8-b163-a88594376e38/view)
 
 ![Alt Text](./cybrary-cert-cve-series-apache-spark-cve-2022-33891-1.png)
+
+
+---
+
+
+### [CSS (Basic)](https://www.hackerrank.com/certificates/e99d0d18cb02)
+
+![Alt Text](./css%20certificate.jpg)
