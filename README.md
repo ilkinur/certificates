@@ -36,6 +36,12 @@
 
 ---
 
+### [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RSIUZBOI8Q.png)
+
+![Alt Text](./THM-RSIUZBOI8Q.png)
+
+---
+
 
 ### [Linux CLI Basics](https://app.cybrary.it/courses/api/certificate/CC-e9f5106d-2dbd-42f3-91a3-e3f87dda2df0/view)
 
@@ -57,6 +63,11 @@
 
 ![Alt Text](./THM-IT1VLLTP32.png)
 
+---
+
+### [ Web Fundamentals ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BQHQLCN6ZW.png)
+
+![Alt Text](./THM-BQHQLCN6ZW.png)
 
 ---
 
