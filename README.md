@@ -18,6 +18,12 @@
 
 ---
 
+### [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FJ3KO8KQSV.png)
+
+![Alt Text](./THM-FJ3KO8KQSV.png)
+
+---
+
 ### [CompTIA Network+ (N10-008)](https://app.cybrary.it/courses/api/certificate/CC-4e2c2830-5f3b-4c30-b0d3-c5bbc513f211/view)
 
 ![Alt Text](./cybrary-cert-comptia-network-plus-2024-03-11-1.png)
