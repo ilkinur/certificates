@@ -3,7 +3,7 @@
 
 
 
-### [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/c9fd30728db4)
+### [SQL (Advanced)](https://www.hackerrank.com/certificates/c9fd30728db4)
 
 ![Alt Text](./sql_advanced%20certificate-1.png)
 
@@ -11,9 +11,16 @@
 ---
 
 
-### [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/06fc74f19529)
+### [SQL (Intermediate)](https://www.hackerrank.com/certificates/06fc74f19529)
 
 ![Alt Text](./sql_intermediate%20certificate-1.png)
+
+---
+
+
+### [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/4863329f663b)
+
+![Alt Text](./javascript_intermediate%20certificate.jpg)
 
 
 ---
@@ -74,6 +81,14 @@
 ### [ Web Fundamentals ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BQHQLCN6ZW.png)
 
 ![Alt Text](./THM-BQHQLCN6ZW.png)
+
+
+---
+
+
+### [JavaScript (Basic)](https://www.hackerrank.com/certificates/8d34700f6781)
+
+![Alt Text](./javascript_basic%20certificate.jpg)
 
 ---
 
