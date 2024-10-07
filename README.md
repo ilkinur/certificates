@@ -18,6 +18,13 @@
 ---
 
 
+### [CompTIA Pentest+ ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WBGICNPS9Q.png)
+
+![Alt Text](./THM-WBGICNPS9Q.png)
+
+---
+
+
 ### [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/4863329f663b)
 
 ![Alt Text](./javascript_intermediate%20certificate.jpg)
@@ -28,6 +35,12 @@
 ### [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FJ3KO8KQSV.png)
 
 ![Alt Text](./THM-FJ3KO8KQSV.png)
+
+---
+
+### [Java (Basic)](https://www.hackerrank.com/certificates/46fa3e4f346b)
+
+![Alt Text](./JavaBasic.png)
 
 ---
 
