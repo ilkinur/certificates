@@ -25,6 +25,14 @@
 ---
 
 
+### [Security Engineer ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UPI00E5PFU.png)
+
+![Alt Text](./THM-UPI00E5PFU.png)
+
+
+---
+
+
 ### [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/4863329f663b)
 
 ![Alt Text](./javascript_intermediate%20certificate.jpg)
