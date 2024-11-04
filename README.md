@@ -58,6 +58,12 @@
 
 ---
 
+### [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDZ3YL3VHG.png)
+
+![Alt Text](./THM-BDZ3YL3VHG.png)
+
+---
+
 ### [Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EA07RRLMAT.png)
 
 ![Alt Text](./THM-EA07RRLMAT.png)
