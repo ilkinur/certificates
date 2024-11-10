@@ -29,6 +29,13 @@
 
 ![Alt Text](./THM-UPI00E5PFU.png)
 
+---
+
+
+### [DevSecOps ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0ZCQC3EE1K.png)
+
+![Alt Text](./THM-0ZCQC3EE1K.png)
+
 
 ---
 
