@@ -85,6 +85,12 @@
 
 ---
 
+### [Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EH1EXTEV37.png)
+
+![Alt Text](./THM-EH1EXTEV37.png)
+
+---
+
 ### [Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EA07RRLMAT.png)
 
 ![Alt Text](./THM-EA07RRLMAT.png)
