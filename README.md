@@ -2,6 +2,12 @@
 ---
 
 
+### [CompTIA Security+](https://www.credly.com/badges/629570b4-fd9c-48e9-8692-a2af5b4b9ec9)
+
+![Alt Text](./comptia-security-ce-certification.png)
+
+
+---
 
 ### [SQL (Advanced)](https://www.hackerrank.com/certificates/c9fd30728db4)
 
