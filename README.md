@@ -4,7 +4,7 @@
 
 ### [CompTIA Security+](https://www.credly.com/badges/629570b4-fd9c-48e9-8692-a2af5b4b9ec9)
 
-![Alt Text](./comptia-security-ce-certification.png)
+![Alt Text](./CompTIA%20Security+%20ce%20certificate-1.png)
 
 
 ---
