@@ -73,6 +73,12 @@
 
 ---
 
+### [SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CPVJ9BFRI5.png)
+
+![Alt Text](./THM-CPVJ9BFRI5.png)
+
+---
+
 ### [Java (Basic)](https://www.hackerrank.com/certificates/46fa3e4f346b)
 
 ![Alt Text](./JavaBasic.png)
