@@ -45,6 +45,13 @@
 ---
 
 
+### [Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IWQXGXM1N7.png)
+
+![Alt Text](./THM-IWQXGXM1N7.png)
+
+---
+
+
 ### [Security Engineer ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UPI00E5PFU.png)
 
 ![Alt Text](./THM-UPI00E5PFU.png)
