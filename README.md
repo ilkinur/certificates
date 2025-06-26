@@ -80,9 +80,16 @@
 
 ---
 
+
 ### [SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CPVJ9BFRI5.png)
 
 ![Alt Text](./THM-CPVJ9BFRI5.png)
+
+---
+
+### [SOC Level 2](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MXMKN1TQR6.png)
+
+![Alt Text](./THM-MXMKN1TQR6.png)
 
 ---
 
