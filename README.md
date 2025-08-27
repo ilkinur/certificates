@@ -52,6 +52,13 @@
 ---
 
 
+### [Advanced Endpoint Investigations ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5RCMG3NO71.png)
+
+![Alt Text](./THM-5RCMG3NO71.png)
+
+---
+
+
 ### [Security Engineer ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UPI00E5PFU.png)
 
 ![Alt Text](./THM-UPI00E5PFU.png)
