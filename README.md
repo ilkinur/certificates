@@ -124,6 +124,12 @@
 
 ---
 
+### [Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CRJ7NR23AZ.png)
+
+![Alt Text](./THM-CRJ7NR23AZ.png)
+
+---
+
 ### [Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EA07RRLMAT.png)
 
 ![Alt Text](./THM-EA07RRLMAT.png)
